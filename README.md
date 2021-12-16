@@ -11,3 +11,18 @@ Moj - one of India’s largest short-video apps has its roots spread in various 
 The challenge is to develop a solution with the help of Artificial Intelligence to tackle the problem of abusive comments in multilingual Indian languages and detect them.  
 
 One important fact to be noticed is that this problem is not only limited to the Moj application. All social media platforms have the issue of abusive comments in multiple languages prevalent. Research is being performed in both areas - identification of multilingual text and detection of abusive and hateful speech contained within the content shared on social media. Unless we are able to detect the hateful content, it is impossible to stop it from spreading around. For making cyberspace a safe space for everyone alike, it is vital that everyone possesses the freedom of expressing their opinions without the fear of people thrashing or abusing them or passing on hateful comments. 
+
+# How To Use This Repository?
+
+
+
+# Conclusion 
+
+In this project we have done the in-depth analysis of multilingual abusive comment detection problem with ML-models and NLP- Model , our investigation has shown the following results :
+- Models like Logistic Regression , Random Forest , Decision Trees , K-Nearest Neighbors , Gaussian Naive Bayes were used with 2 types of vectorization , which were BOW approach and Tf-Idf Approach were used for ML models and BERT was used for NLP model
+- The best performing models were BERT LR-TF-IDF and RF-TF-IDF with accuracies of 0.84, 0.83 and 0.81 respectively.
+- The worst performing models were GB-BOW and KN-BOw with accuracies of 0.70 and 0.77 respectively.
+
+# Standing In The Competition 
+
+![Position](https://res.cloudinary.com/pooja-gera/image/upload/v1639661046/WhatsApp_Image_2021-12-16_at_4.51.02_PM_xcqruh.jpg)
