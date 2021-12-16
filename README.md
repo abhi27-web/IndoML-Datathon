@@ -42,10 +42,12 @@ git clone https://github.com/abhi27-web/IndoML-Datathon.git
 ![](https://res.cloudinary.com/pooja-gera/image/upload/v1639664355/2021-12-16_17_astpsj.png)
 # Conclusion 
 
-In this project we have done the in-depth analysis of multilingual abusive comment detection problem with ML-models and NLP- Model , our investigation has shown the following results :
-- Models like Logistic Regression , Random Forest , Decision Trees , K-Nearest Neighbors , Gaussian Naive Bayes were used with 2 types of vectorization , which were BOW approach and Tf-Idf Approach were used for ML models and BERT was used for NLP model
+In this project we have done the in-depth analysis of multilingual abusive comment detection problem with ML-models and NLP- Model, our investigation has shown the following results:
+- Models like Logistic Regression, Random Forest, Decision Trees, K-Nearest Neighbors, Gradient Boosting were used with 2 types of vectorization, which were BOW approach and Tf-Idf Approach were used for ML models and BERT was used for NLP model
 - The best performing models were BERT LR-TF-IDF and RF-TF-IDF with accuracies of 0.84, 0.83 and 0.81 respectively.
-- The worst performing models were GB-BOW and KN-BOw with accuracies of 0.70 and 0.77 respectively.
+- The worst performing models were GB-BOW and KN-BOW with accuracies of 0.70 and 0.77 respectively.
+- Finally we got the best accuracy of 0.93076 using the Logistic Regression Algorithm along with IndicNLP tokenized TFIDF.
+
 
 # Standing In The Competition 
 
