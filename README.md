@@ -25,17 +25,21 @@ git clone https://github.com/abhi27-web/IndoML-Datathon.git
 (Refer to the highlighted yellow portion in the image given below)
 ![](https://res.cloudinary.com/pooja-gera/image/upload/v1639662651/Navigate_to_file_l8vo9n.png)
 
-- Step 3: Open [Kaggle Code Playground](https://www.kaggle.com/code) in your browser 
+- Step 3: Open [IndoML Multilingual Abusive Comment Detection Kaggle Challenge](https://www.kaggle.com/c/multilingualabusivecomment) in your browser 
 
-![](https://res.cloudinary.com/pooja-gera/image/upload/v1639662826/2021-12-16_10_wdkpub.png)
+![](https://res.cloudinary.com/pooja-gera/image/upload/v1639664143/2021-12-16_14_zzbkrd.png)
 
-- Step 4: Upload the ``` Final Submission Code.ipynb``` in the Kaggle Code Playground 
+- Step 4: Navigate to "Code" on the webpage and click on New Notebook 
 
-![](https://res.cloudinary.com/pooja-gera/image/upload/v1639663508/2021-12-16_11_uny4tl.png)
+![](https://res.cloudinary.com/pooja-gera/image/upload/v1639664204/2021-12-16_15_vyidea.png)
 
-- Step 5: Run the cells of the notebook to get the desired results 
+- Step 5: Upload the ```Final Submission Code.ipynb``` notebook 
 
-![](https://res.cloudinary.com/pooja-gera/image/upload/v1639663508/2021-12-16_12_est7ox.png)
+![](https://res.cloudinary.com/pooja-gera/image/upload/v1639664276/2021-12-16_16_njkdvm.png)
+
+- Step 6: Run the cells of the notebook to get the desired results 
+
+![](https://res.cloudinary.com/pooja-gera/image/upload/v1639664355/2021-12-16_17_astpsj.png)
 # Conclusion 
 
 In this project we have done the in-depth analysis of multilingual abusive comment detection problem with ML-models and NLP- Model , our investigation has shown the following results :
