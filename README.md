@@ -14,8 +14,28 @@ One important fact to be noticed is that this problem is not only limited to the
 
 # How To Use This Repository?
 
+- Step 1: Clone this repository 
 
+```bash
+git clone https://github.com/abhi27-web/IndoML-Datathon.git
+```
 
+- Step 2: Navigate to the file named ``` Final Submission Code.ipynb```
+
+(Refer to the highlighted yellow portion in the image given below)
+![](https://res.cloudinary.com/pooja-gera/image/upload/v1639662651/Navigate_to_file_l8vo9n.png)
+
+- Step 3: Open [Kaggle Code Playground](https://www.kaggle.com/code) in your browser 
+
+![](https://res.cloudinary.com/pooja-gera/image/upload/v1639662826/2021-12-16_10_wdkpub.png)
+
+- Step 4: Upload the ``` Final Submission Code.ipynb``` in the Kaggle Code Playground 
+
+![](https://res.cloudinary.com/pooja-gera/image/upload/v1639663508/2021-12-16_11_uny4tl.png)
+
+- Step 5: Run the cells of the notebook to get the desired results 
+
+![](https://res.cloudinary.com/pooja-gera/image/upload/v1639663508/2021-12-16_12_est7ox.png)
 # Conclusion 
 
 In this project we have done the in-depth analysis of multilingual abusive comment detection problem with ML-models and NLP- Model , our investigation has shown the following results :
